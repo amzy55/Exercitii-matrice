@@ -18,5 +18,8 @@
     <ClCompile Include="matrice_V4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="matrice_V5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
