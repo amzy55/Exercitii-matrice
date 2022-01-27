@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 using namespace std;
 
@@ -17,4 +17,4 @@ int main()
 			if (a[0][j] == a[i][n - 1])
 				cout << a[0][j] << " ";
 	}
-}
+}*/
