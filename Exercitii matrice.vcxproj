@@ -142,6 +142,7 @@
     <ClCompile Include="matrice_V4.cpp" />
     <ClCompile Include="matrice_V5.cpp" />
     <ClCompile Include="matrice_V6.cpp" />
+    <ClCompile Include="matrice_V7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
