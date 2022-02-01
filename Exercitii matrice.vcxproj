@@ -142,6 +142,7 @@
     <ClCompile Include="matrice_2020_V14.cpp" />
     <ClCompile Include="matrice_2020_V15.cpp" />
     <ClCompile Include="matrice_2020_V16.cpp" />
+    <ClCompile Include="matrice_2020_V17.cpp" />
     <ClCompile Include="matrice_V10.cpp" />
     <ClCompile Include="matrice_V11.cpp" />
     <ClCompile Include="matrice_V12.cpp" />
