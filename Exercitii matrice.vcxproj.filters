@@ -42,5 +42,8 @@
     <ClCompile Include="matrice_V12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="matrice_2020_V14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="matrice_2020_V14.cpp" />
     <ClCompile Include="matrice_V10.cpp" />
     <ClCompile Include="matrice_V11.cpp" />
     <ClCompile Include="matrice_V12.cpp" />
